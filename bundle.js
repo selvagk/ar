@@ -27602,7 +27602,7 @@
     }
     var Ie, Oe = {
         url: "assets/tweets.json",
-        hashtag: "#helloTonomus",
+        hashtag: "#Tonomus",
         hashtagText: null,
         authorText: null,
         messageText: null,
