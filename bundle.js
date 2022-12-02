@@ -27602,7 +27602,7 @@
     }
     var Ie, Oe = {
         url: "assets/tweets.json",
-        hashtag: "#helloNeom",
+        hashtag: "#helloTonomus",
         hashtagText: null,
         authorText: null,
         messageText: null,
@@ -27919,7 +27919,7 @@
             description: "Press 1 to enter, 0 to exit",
             offsety: .04
         }, {
-            title: "Welcome to Neom's Metaverse!",
+            title: "Welcome to Tonomus's Metaverse!",
             description: "gallary of teleportation and experience",
             offsety: .06
         }, {
