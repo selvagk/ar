@@ -1,16 +1,21 @@
 # Hello WebXR!
 
-![screenshot](assets/sshot.jpg)
+This demo supported in all VR headsets with controllers. Tested on simulated environment.
 
-[Try it here!](https://mixedreality.mozilla.org/hello-webxr/index.html)
+1. Download Firefox
+2. install firefox WebXR extension "https://addons.mozilla.org/en-US/firefox/addon/webxr-api-emulator/"
+3. click on any surface in page and let the pointer events were controlled by Meta
+4. For navigation use A(left),W(forward), S(reverse), D(right)
+5. The Metaverse gallery has 8 Teleport Rooms(Nagvigate by pressing 1-8) and you can come back to gallery by pressing 0.(In VR headset, guidelines provided and expected to work)
+6. There is option to integrate live twitter feed on TV in gallery, as of now it comes from a local JSON
+7. Most of the shaders, Objects used are opensource and details given below
+8. In VR headset, you can play xhylophone using controllers. Its not supported in browser
 
-This is a WebXR demo made to celebrate the [WebXR spec](https://immersive-web.github.io/webxr/) release at the end of 2019. It showcases several small experiences, perfect to test different kind of interactions and situations in Virtual Reality. For newcomers, it's a nice entry point to the medium, and web developers may find many things they can reuse and learn (more info on the [launch article](https://blog.mozvr.com/hello-webxr)).
 
-## How to build
+Integration with Agents and other interactions is in progress.
 
-1. `npm install`
-2. `npm start`
-3. Open `http://localhost:8080`
+
+
 
 
 ### Shader packing
