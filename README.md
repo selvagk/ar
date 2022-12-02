@@ -10,6 +10,8 @@ This demo supported in all VR headsets with controllers. Tested on simulated env
 6. There is option to integrate live twitter feed on TV in gallery, as of now it comes from a local JSON
 7. Most of the shaders, Objects used are opensource and details given below
 8. In VR headset, you can play xhylophone using controllers. Its not supported in browser
+9. Most of the Teleported space is rich in sound and visual mode
+10. Demo of it is available in youtube: https://youtu.be/BzPDCrr5XkM 
 
 
 Integration with Agents and other interactions is in progress.
